@@ -1,0 +1,47 @@
+[
+    {
+        "id" : "11",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/l30hmkw0/bed/s/x/8/king-208-gold-no-224-teak-sagun-yes-300-ak9678n-alishaank-165-original-image7vmnzfwcaaw.jpeg?q=70",
+        "title" : "alishaank TEAK WOOD ROYAL ELITE Solid Wood King Box Bed",
+        "desc" : "Finish Color - METALIC, Delivery Condition - DIY",
+        "rating" : "3.3",
+        "price" : "₹2,85,000",
+        "catg" : "Furniture"
+    },
+    {
+        "id" : "12",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/l0h1g280/side-table/m/7/u/45-45-5-particle-board-16-aero-bedside-table-godrej-interio-50-3-original-imagc9f6tm5f4ezk.jpeg?q=70",
+        "title" : "Godrej Interio Aero Engineered Wood Almirah",
+        "desc" : "Finish Color - Cream, Knock Down",
+        "rating" : "3.5",
+        "price" : "₹1,00,641",
+        "catg" : "Furniture"
+    },
+    {
+        "id" : "13",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/xif0q/office-study-chair/o/0/c/1-foam-66-eec-711-encore-127-original-imaghysctghzfhcn.jpeg?q=70",
+        "title" : "Encore Leatherette Office Adjustable Arm Chair",
+        "desc" : " Black",
+        "rating" : "3.7",
+        "price" : "₹1,35,900",
+        "catg" : "Furniture"
+    },
+    {
+        "id" : "14",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/sofa-sectional/x/f/7/omega-l-shape-sofa-semi-aniline-leather-durian-grey-battleship-original-imaee74zgecjpsag.jpeg?q=70",
+        "title" : "Durian Omega Leather 2 Seater Sofa",
+        "desc" : "Finish Color - BATTLESHIP GREY, Knock Down",
+        "rating" : "3.4",
+        "price" : "₹2,34,520",
+        "catg" : "Furniture"
+    },
+    {
+        "id" : "15",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/xif0q/dining-table/g/o/s/180-6-seater-100-plywood-1000010999747-home-centre-75-black-original-imaggtadewqaaq7v.jpeg?q=70",
+        "title" : "Home Centre Engineered Wood 6 Seater Dining Table",
+        "desc" : "Finish Color - Black, Pre-assembled",
+        "rating" : "3.9",
+        "price" : "₹88,499",
+        "catg" : "Furniture"
+    }
+]

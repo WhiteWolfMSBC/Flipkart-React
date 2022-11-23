@@ -1,0 +1,47 @@
+[
+    {
+        "id" : "21",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/l2nmnww0/flour/k/r/a/-original-imagdyy7ykmgzgeg.jpeg?q=70",
+        "title" : "AASHIRVAAD",
+        "desc" : "Shudh Chakki Atta, 10 kg",
+        "rating" : "4.9",
+        "price" : "₹384",
+        "catg" : "Grocery"
+    },
+    {
+        "id" : "22",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/ky0g58w0/rice/k/k/j/1-black-karuppu-kavuni-1kg-pack-of-5-husking-black-rice-pouch-original-imagac9pq8mff38f.jpeg?q=70",
+        "title" : "Weefa Karuppu Kavuni 1Kg",
+        "desc" : "(pack of 5) Black Black Rice Full Grain, Husking",
+        "rating" : "1.2",
+        "price" : "₹1,249",
+        "catg" : "Grocery"
+    },
+    {
+        "id" : "23",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/xif0q/chocolate/y/z/s/500-assorted-chocolate-poids-gift-box-1-patchi-original-imagj865zzfst9zu.jpeg?q=70",
+        "title" : "Patchi MILK CHOCOLATE POIDS",
+        "desc" : "GIFT BOX Bars, 500 g",
+        "rating" : "4.1",
+        "price" : "₹7,999",
+        "catg" : "Grocery"
+    },
+    {
+        "id" : "24",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/kzygpzk0/fmcg-combo/r/w/0/premium-quality-arhar-and-moong-mogar-dal-combo-750-g-each-6-original-imagbuvdyysmegpw.jpeg?q=70",
+        "title" : "Goshudh Premium Quality Arhar And Moong Mogar Dal Combo",
+        "desc" : "750 g each Combo, Arhar Dal 750 gm, Moong Mogar Dal 750 gm",
+        "rating" : "3.1",
+        "price" : "₹450",
+        "catg" : "Grocery"
+    },
+    {
+        "id" : "25",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/kfwvcsw0/ready-meal/4/a/u/1140-ready-to-eat-paneer-tikka-masala-285g-pack-of-4-gits-original-imafw9z7zyhhsnrx.jpeg?q=70",
+        "title" : "Gits Ready to Eat Paneer Tikka Masala",
+        "desc" : "285g, Pack of 4, 1140 g",
+        "rating" : "3.4",
+        "price" : "₹580",
+        "catg" : "Grocery"
+    }
+]

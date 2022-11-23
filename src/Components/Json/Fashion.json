@@ -1,0 +1,47 @@
+[
+    {
+        "id" : "16",
+        "img" : "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/b/l/x/40-lxsfcclh545953-louis-philippe-original-imagj6zadzqugmhj.jpeg?q=70",
+        "title" : "LOUIS PHILIPPE ",
+        "desc" : "Men Slim Fit Printed Formal Shirt",
+        "rating" : "4.1",
+        "price" : "₹6,999",
+        "catg" : "Fashion"
+    },
+    {
+        "id" : "17",
+        "img" : "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/v/u/8/34-a2amn150-tommy-hilfiger-original-imagjdyjsyqdg4pf.jpeg?q=70",
+        "title" : "TOMMY HILFIGER ",
+        "desc" : "Slim Fit Men Khaki Cotton Blend Trousers",
+        "rating" : "₹6,999",
+        "price" : "4.2",
+        "catg" : "Fashion"
+    },
+    {
+        "id" : "18",
+        "img" : "https://rukminim1.flixcart.com/image/832/832/xif0q/suit/y/s/r/42-lx-do-losel3-navy-blackberrys-original-imagejcjauxwzzg8-bb.jpeg?q=70",
+        "title" : "Blackberrys",
+        "desc" : "3 piece suit Solid Men Suit",
+        "rating" : "4.5",
+        "price" : "₹24,995",
+        "catg" : "Fashion"
+    },
+    {
+        "id" : "19",
+        "img" : "https://rukminim1.flixcart.com/image/832/832/xif0q/belt/z/j/e/30-belts-lpbljrgff222002-belts-louis-philippe-original-imaghu7zh4twujyf.jpeg?q=70",
+        "title" : "LOUIS PHILIPPE ",
+        "desc" : "Men Casual Brown Genuine Leather Belt",
+        "rating" : "3.9",
+        "price" : "₹3,999",
+        "catg" : "Fashion"
+    },
+    {
+        "id" : "20",
+        "img" : "https://rukminim1.flixcart.com/image/832/832/kyoqmq80/wallet-card-wallet/9/7/k/leather-perforated-wallet-0-59-1-6832br-8-wallet-ohm-new-york-4-original-imagav4bfdbjj3az.jpeg?q=70",
+        "title" : "OHM New York ",
+        "desc" : "Men Casual, Formal, Trendy Tan Genuine Leather RFID Wallet, 8 Card Slots",
+        "rating" : "4.0",
+        "price" : "₹5,699",
+        "catg" : "Fashion"
+    }
+]

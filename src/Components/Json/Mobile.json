@@ -1,0 +1,47 @@
+[
+    {
+        "id" : "1",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/w/t/r/-original-imaggj68cgtdacxn.jpeg?q=70",
+        "title" : "SAMSUNG Galaxy S22 Ultra 5G ",
+        "desc" : " Phantom Black, 1TB, 12 GB RAM",
+        "rating" : "4.2",
+        "price" : "₹1,18,999",
+        "catg" : "Mobile"
+    },
+    {
+        "id" : "2",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/9/f/p/-original-imaghxenhnpyhn5u.jpeg?q=70",
+        "title" : "APPLE iPhone 14 Pro Max",
+        "desc" : "Space Black, 512 GB",
+        "rating" : "4.7",
+        "price" : "₹1,69,900",
+        "catg" : "Mobile"
+    },
+    {
+        "id" : "3",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/p/x/l/-original-imaggfmg9yqbyphj.jpeg?q=70",
+        "title" : "MOTOROLA Edge 30 Ultra",
+        "desc" : "Starlight White, 256 GB, 12 GB RAM",
+        "rating" : "4.1",
+        "price" : "₹59,999",
+        "catg" : "Mobile"
+    },
+    {
+        "id" : "4",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/jkbguq80/mobile/2/s/m/sony-xperia-xz2-na-original-imaf7zvvhuxxf7hf.jpeg?q=70",
+        "title" : "SONY Xperia XZ2",
+        "desc" : "Liquid Chrome, 64 GB, 6 GB RAM",
+        "rating" : "3.9",
+        "price" : "₹74,990",
+        "catg" : "Mobile"
+    },
+    {
+        "id" : "5",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/b/p/s/-original-imaggsuemmztbghp.jpeg?q=70",
+        "title" : "Google Pixel 7 Pro",
+        "desc" : "Snow, 128 GB, 12 GB RAM",
+        "rating" : "4.5",
+        "price" : "₹84,999",
+        "catg" : "Mobile"
+    }  
+]
